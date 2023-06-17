@@ -1,0 +1,9 @@
+To run.
+
+npm install
+
+-- This will compile it
+npx tsc
+
+-- Test the output
+node main.js
